@@ -1,0 +1,128 @@
+{
+	"data": {
+	  "characters": {
+		"results": [
+		  {
+			"id": "61",
+			"name": "Campaign Manager Morty",
+			"image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg",
+			"status": "Dead"
+		  },
+		  {
+			"id": "62",
+			"name": "Canklanker Thom",
+			"image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg",
+			"status": "Dead"
+		  },
+		  {
+			"id": "63",
+			"name": "Centaur",
+			"image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg",
+			"status": "Alive"
+		  },
+		  {
+			"id": "64",
+			"name": "Chris",
+			"image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg",
+			"status": "Dead"
+		  },
+		  {
+			"id": "65",
+			"name": "Chris",
+			"image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg",
+			"status": "Alive"
+		  },
+		  {
+			"id": "66",
+			"name": "Coach Feratu (Balik Alistane)",
+			"image": "https://rickandmortyapi.com/api/character/avatar/66.jpeg",
+			"status": "Dead"
+		  },
+		  {
+			"id": "67",
+			"name": "Collector",
+			"image": "https://rickandmortyapi.com/api/character/avatar/67.jpeg",
+			"status": "Alive"
+		  },
+		  {
+			"id": "68",
+			"name": "Colossus",
+			"image": "https://rickandmortyapi.com/api/character/avatar/68.jpeg",
+			"status": "Dead"
+		  },
+		  {
+			"id": "69",
+			"name": "Commander Rick",
+			"image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg",
+			"status": "Dead"
+		  },
+		  {
+			"id": "70",
+			"name": "Concerto",
+			"image": "https://rickandmortyapi.com/api/character/avatar/70.jpeg",
+			"status": "Dead"
+		  },
+		  {
+			"id": "71",
+			"name": "Conroy",
+			"image": "https://rickandmortyapi.com/api/character/avatar/71.jpeg",
+			"status": "Dead"
+		  },
+		  {
+			"id": "72",
+			"name": "Cool Rick",
+			"image": "https://rickandmortyapi.com/api/character/avatar/72.jpeg",
+			"status": "Alive"
+		  },
+		  {
+			"id": "73",
+			"name": "Cop Morty",
+			"image": "https://rickandmortyapi.com/api/character/avatar/73.jpeg",
+			"status": "Dead"
+		  },
+		  {
+			"id": "74",
+			"name": "Cop Rick",
+			"image": "https://rickandmortyapi.com/api/character/avatar/74.jpeg",
+			"status": "Alive"
+		  },
+		  {
+			"id": "75",
+			"name": "Courier Flap",
+			"image": "https://rickandmortyapi.com/api/character/avatar/75.jpeg",
+			"status": "Alive"
+		  },
+		  {
+			"id": "76",
+			"name": "Cousin Nicky",
+			"image": "https://rickandmortyapi.com/api/character/avatar/76.jpeg",
+			"status": "Dead"
+		  },
+		  {
+			"id": "77",
+			"name": "Cowboy Morty",
+			"image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg",
+			"status": "Alive"
+		  },
+		  {
+			"id": "78",
+			"name": "Cowboy Rick",
+			"image": "https://rickandmortyapi.com/api/character/avatar/78.jpeg",
+			"status": "Alive"
+		  },
+		  {
+			"id": "79",
+			"name": "Crab Spider",
+			"image": "https://rickandmortyapi.com/api/character/avatar/79.jpeg",
+			"status": "Alive"
+		  },
+		  {
+			"id": "80",
+			"name": "Creepy Little Girl",
+			"image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg",
+			"status": "Alive"
+		  }
+		]
+	  }
+	}
+  }
